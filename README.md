@@ -1,4 +1,4 @@
-# Project-4.-Superstore-Sales-Analysis
+# Superstore-Sales-Analysis
 
 ## About Dataset
 
